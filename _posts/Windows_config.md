@@ -2,7 +2,7 @@
 title: Windows 配置
 tag: 杂技
 thumbnail: https://pic.kylinn.cloud/uploads/big/fd008d80a77ffae9f36a96272d64ba75.png
-date: 2021/3/10
+date: 2021/8/17
 ---
 
 ## 安装一些基本软件
