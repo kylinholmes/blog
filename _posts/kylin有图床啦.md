@@ -2,6 +2,7 @@
 title: Kylin有图床啦
 tag: 杂技
 thumbnail: https://pic.kylinn.cloud/uploads/big/8dca4bc3663a98c3071198e42f7ebc51.png
+date: 2021/4/25
 ---
 
 

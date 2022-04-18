@@ -2,6 +2,7 @@
 title: yolov5的坑，猛汉落泪😥
 tag: 杂技
 thumbnail: https://pic.kylinn.cloud/uploads/big/c8d28c219d9cf1d6b00dcf875c9b0ba8.jpg
+date: 2021/6/16
 ---
 
 ## 1. 图片尺寸不一样

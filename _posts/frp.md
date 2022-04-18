@@ -2,6 +2,7 @@
 title: frp内网穿透
 tag: [杂技, Windows]
 thumbnail: https://pic.kylinn.cloud/uploads/big/9e2a286381ba21086efab7495978c88f.png
+date: 2021/2/12
 ---
 
 ## 安装和基本配置

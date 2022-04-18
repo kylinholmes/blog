@@ -2,6 +2,7 @@
 title: latex语法
 tag: Latex
 thumbnail: https://www.latex-project.org/img/latex-project-logo.svg
+date: 2021/6/8
 ---
 # Latex数学公式语法
 自己写一下，方便你我他。

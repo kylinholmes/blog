@@ -2,6 +2,7 @@
 title: wsl的安装及配置
 tag: [杂技, Windows]
 thumbnail: https://docs.microsoft.com/en-us/windows/wsl/media/terminal.png
+date: 2021/5/7
 ---
 # WSL安装以及配置
 **WSL** 是 Windows Subsystem Linux 的缩写，就是Windows下的Linux子系统

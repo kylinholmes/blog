@@ -2,6 +2,7 @@
 title: 字符串算法
 tag: Algorithm
 thumbnail: https://pic.kylinn.cloud/uploads/big/de16926a0216ca852c56a8dc5d91284b.jpg
+date: 2021/3/1
 ---
 
 ## Rope data structure

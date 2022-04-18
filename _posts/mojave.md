@@ -2,6 +2,7 @@
 title: windows 制作macOS镜像然后安装
 tag: [杂技, Windows]
 thumbnail: https://pic.kylinn.cloud/uploads/big/f117dd8066d9ba124efc503eb00c5fb7.jpg
+date: 2021/5/7
 ---
 # Windows 下 MacOS 10.14 mojave 的 重装
 [TOC]

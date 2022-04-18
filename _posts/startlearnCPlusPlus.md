@@ -2,6 +2,7 @@
 title: 从0开始再学一遍C++
 tag:  [C++, Linux]
 thumbnail: https://pic.kylinn.cloud/uploads/big/bef95178b0ccbcbfbeb7e35a028672c9.jpg
+date: 2021/6/18
 ---
 
 C++和我相性不合，不过还是要学的。

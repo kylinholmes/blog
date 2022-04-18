@@ -2,6 +2,7 @@
 title: DNS相关
 tag: 杂技
 thumbnail: https://pic.kylinn.cloud/uploads/big/0ce277218b174870b6c70055970e711b.jpg
+date: 2021/8/16
 ---
 ## 记录的类型
 

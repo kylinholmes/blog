@@ -2,6 +2,7 @@
 title: linux proc
 tag: linux
 thumbnail: https://pic.kylinn.cloud/uploads/big/084654c05e4b973fc7262061c999eb96.jpg
+date: 2021/7/29
 ---
 ~~以PID为1的文件夹为例~~
 ## proc里的文件

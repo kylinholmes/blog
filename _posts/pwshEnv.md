@@ -1,7 +1,7 @@
 ---
 title: Windows 设置环境变量
 thumbnail: https://pic.kylinn.cloud/uploads/big/128e028306976ccfae09d1d322a6cada.jpg
-
+date: 2021/11/24
 ---
 
 # 因为渲染问题，有些代码不能正确显示，我把它放在[csdn](https://blog.csdn.net/kylinholmes/article/details/120195414)上了

@@ -2,6 +2,7 @@
 title: I/O 模型
 tag: Linux
 thumbnail: https://pic.kylinn.cloud/uploads/big/b412376443a8f81397672ea042eb2a08.jpg
+date: 2021/8/9
 ---
 
 首先，Unix四种IO模型

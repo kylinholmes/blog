@@ -2,6 +2,7 @@
 title: 云计算相关概念
 tag: [杂技, 云计算]
 thumbnail: https://pic.kylinn.cloud/uploads/big/1c41f7ba0c0af15951ba6ce2d0c82120.jpg
+date: 2021/6/16
 ---
 
 ~~室友笔试被考到了，今天就写下来，万一下次又中招了~~

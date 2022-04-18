@@ -2,6 +2,7 @@
 title: cpp template 
 tag: cpp
 thumbnail: https://pic.kylinn.cloud/uploads/big/3ce124f97e406b8df21643d57ec4223f.jpg
+date: 2021/9/27
 ---
 
 ## 模板判断类型是否相同：

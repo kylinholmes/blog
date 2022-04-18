@@ -2,6 +2,7 @@
 title: 发现一个很顶的资源网站
 tag: 杂技
 thumbnail: https://pic.kylinn.cloud/uploads/big/c7f45acb969b477433550e9e8f3f6614.png
+date: 2021/6/16
 ---
 
 > 学而不厌
